@@ -1,3 +1,3 @@
-module github.com/wassup-chicken/animalPackage
+module mymodule
 
 go 1.23.2

@@ -4,6 +4,6 @@ import "fmt"
 
 var PlanetFitness int = 10
 
-func hahaFunc() {
-	fmt.Println("YOOO Some!", PlanetFitness)
+func HahaFunc() {
+	fmt.Println("YOOO aaaa!", PlanetFitness)
 }
